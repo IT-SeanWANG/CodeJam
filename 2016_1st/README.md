@@ -4,7 +4,7 @@
 2. Copy Q3.py to the folder 'controllers' of pecan project
 3. Modify root.py under folder 'controllers':
     Add：import Q3
-Add to 'class RootController(object)'：vnfs = Q3.vnfsController()
+    Add to 'class RootController(object)'：vnfs = Q3.vnfsController()
 
 ### Test procedure:
 #### Window:
@@ -15,6 +15,7 @@ Add to 'class RootController(object)'：vnfs = Q3.vnfsController()
 launch webservice，show info as bellow at terminal window:
 Starting server in PID 7252
 serving on 0.0.0.0:8080, view at http://127.0.0.1:8080/
+
 Test case list as bellow:
 1. IE Enter:   http://127.0.0.1:8080/vnfs
 2. IE Enter:   http://127.0.0.1:8080/vnfs/1
