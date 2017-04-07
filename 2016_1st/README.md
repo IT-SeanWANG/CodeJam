@@ -12,7 +12,7 @@
 2. cd pecanrest
 3. python setup.py develop
 4. pecan serve config.py
-launch webservice，show info as bellow at terminal window:
+launch webservice, show info as bellow at terminal window:
 Starting server in PID 7252
 serving on 0.0.0.0:8080, view at http://127.0.0.1:8080/
 
