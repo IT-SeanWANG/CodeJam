@@ -1,0 +1,4 @@
+F,Y,V,U,J,Q,S,O,Q,J,J,V,C,M,J,S,D,H,P,E,G,M,S,Y,F,L,F,L,K,J,Q,Q,R,V,M,Y,C,W,K,O,H,N,D,P,S,Y,N,D,N,R,X,A,N,N,N,K,C,S,D,H,C,Q,U,B,W,O,O,I,N,Y,N,C,M,S,P,C,U,R,T,A,L,B,Z,D,Y,A,V,X,F,K,Q,L,Q,P,S,R,V,O,K,F
+
+#RES:220
+#SCORE:2
