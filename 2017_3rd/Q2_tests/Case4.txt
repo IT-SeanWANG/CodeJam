@@ -1,0 +1,4 @@
+A,A,A,A,A,A,B,B,B,B,B,B
+
+#RES:72
+#SCORE:2
