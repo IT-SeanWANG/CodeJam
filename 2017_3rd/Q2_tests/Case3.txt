@@ -1,0 +1,4 @@
+A,A,A,A
+
+#RES:16
+#SCORE:2
