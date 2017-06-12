@@ -1,0 +1,4 @@
+A,B,C,D,E,F,G,H,I,J,K,L,M,N,A,N,M,L,K,J,I,H,G,F,E,D,C,B,A
+
+#RES:57
+#SCORE:2
