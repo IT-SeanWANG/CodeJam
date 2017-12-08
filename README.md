@@ -12,4 +12,12 @@ Online Judge: 在线的判题系统。用户可以在线提交程序多种程序
 蓝桥杯：http://lx.lanqiao.cn/
 
 
+Other Links:
+https://www.nowcoder.com/activity/oj
+
+https://www.nowcoder.com/ta/leetcode
+
+https://www.nowcoder.com/ta/acm-training
+
+
 If you are interested in it, you can contact me via Wechat 373061200
